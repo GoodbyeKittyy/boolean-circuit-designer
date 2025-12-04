@@ -1,12 +1,14 @@
 # Boolean Logic Circuit Designer & Simulator
 
-</br>
-<img width="557" height="528" alt="image" src="https://github.com/user-attachments/assets/2c3952ea-fb52-4b0b-a563-21770b80d7e5" />
-</br>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/boolean-circuit-designer)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+
+</br>
+<img width="557" height="528" alt="image" src="https://github.com/user-attachments/assets/2c3952ea-fb52-4b0b-a563-21770b80d7e5" />
+
+</br>
 
 A professional-grade digital circuit design and simulation platform with comprehensive support for Boolean algebra, logic gates, Karnaugh map optimization, and FPGA prototyping. Featuring an interactive web-based interface with analog calculator styling and multi-language backend implementations.
 

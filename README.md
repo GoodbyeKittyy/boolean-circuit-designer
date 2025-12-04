@@ -1,5 +1,9 @@
 # Boolean Logic Circuit Designer & Simulator
 
+</br>
+<img width="557" height="528" alt="image" src="https://github.com/user-attachments/assets/2c3952ea-fb52-4b0b-a563-21770b80d7e5" />
+</br>
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/boolean-circuit-designer)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -418,7 +422,7 @@ curl -X POST http://localhost:8080/api/circuit/analyze \
 
 ## 🤝 Contributing
 
-We welcome contributions! Please follow these guidelines:
+I welcome contributions! Please follow these guidelines:
 
 1. Fork the repository
 2. Create a feature branch: `git checkout -b feature-name`
@@ -462,52 +466,11 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
 
-## 🙏 Acknowledgments
+---
 
-- Boolean algebra fundamentals: George Boole (1854)
-- Karnaugh maps: Maurice Karnaugh (1953)
-- Quine-McCluskey algorithm: Willard V. Quine & Edward J. McCluskey (1950s)
-- Modern FPGA tools: Xilinx, Intel/Altera, Lattice
+**Star ⭐ this repository if you find it useful!**
 
-## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/boolean-circuit-designer/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/boolean-circuit-designer/discussions)
-- **Email**: support@booleancircuit.com
-
-## 🗺️ Roadmap
-
-### Version 1.1 (Q2 2024)
-- [ ] Sequential circuit support (flip-flops, registers)
-- [ ] Timing analysis and propagation delay
-- [ ] Multi-output circuit optimization
-- [ ] WebAssembly compilation for Fortran/Haskell
-
-### Version 1.2 (Q3 2024)
-- [ ] 3D circuit visualization
-- [ ] Collaborative editing features
-- [ ] Cloud-based circuit library
-- [ ] Mobile app (React Native)
-
-### Version 2.0 (Q4 2024)
-- [ ] FPGA synthesis integration
-- [ ] Hardware-in-the-loop testing
-- [ ] AI-powered circuit optimization
-- [ ] Real-time collaboration
-
-## 📈 Citations
-
-If you use this software in academic work, please cite:
-
-```bibtex
-@software{boolean_circuit_designer,
-  title={Boolean Logic Circuit Designer \& Simulator},
-  author={Your Name},
-  year={2024},
-  url={https://github.com/yourusername/boolean-circuit-designer},
-  version={1.0.0}
-}
-```
 
 ---
 

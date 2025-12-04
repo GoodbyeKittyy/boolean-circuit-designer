@@ -1,0 +1,76 @@
+{
+  "name": "boolean-circuit-designer",
+  "version": "1.0.0",
+  "description": "Professional-grade digital circuit design and simulation platform with Boolean algebra, logic gates, K-Maps, and FPGA prototyping support",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src/**/*.{js,jsx}",
+    "format": "prettier --write src/**/*.{js,jsx,json,css,md}"
+  },
+  "keywords": [
+    "boolean-algebra",
+    "logic-gates",
+    "circuit-simulation",
+    "karnaugh-maps",
+    "digital-design",
+    "fpga",
+    "hdl",
+    "truth-tables",
+    "circuit-optimization",
+    "computer-architecture"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/boolean-circuit-designer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/boolean-circuit-designer/issues"
+  },
+  "homepage": "https://github.com/yourusername/boolean-circuit-designer#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "lucide-react": "^0.263.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/jest-dom": "^5.16.5",
+    "@testing-library/user-event": "^13.5.0",
+    "eslint": "^8.40.0",
+    "eslint-config-airbnb": "^19.0.4",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-jsx-a11y": "^6.7.1",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "prettier": "^2.8.8"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
+}
